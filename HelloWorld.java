@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Hello, World");
         System.out.println("Jenkins is a CI Tool");
         System.out.println("This is new build");
+        System.out.println("This is for pipeline view");
     }
 
 }
